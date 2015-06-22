@@ -40,7 +40,7 @@ module.exports = function(grunt) {
                 },
 
                 stats: {
-                    colors: false,
+                    colors: true,
                     modules: false,
                     reasons: false
                 },
